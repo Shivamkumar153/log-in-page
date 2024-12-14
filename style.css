@@ -1,0 +1,47 @@
+body{
+ 
+    text-align: center;
+    text-align: ce;
+}
+
+p {
+    color: rgb(201, 111, 55);
+    font-size: medium;
+    font: medium;
+    align-items: center;
+    text-align: center;
+}
+
+div {
+    color: black;
+    height: 50%;
+    width: 70%;
+    align-items: center;
+    text-align: center;
+}
+
+button.bto {
+    margin: 5px;
+    padding: 10px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    text-align: center;
+    
+}
+button:hover{
+    padding: 10px 20px;
+            background-color: black;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+}
+
+.class{
+    color: black;
+    background-color: white;
+}
+    
